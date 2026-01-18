@@ -99,4 +99,3 @@ This project was created to:
 **Sumit Kumar**
 Aspiring Data Analyst
 
-If you find this project helpful, feel free to ⭐ the repository!
